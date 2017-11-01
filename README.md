@@ -1,2 +1,2 @@
 # ContactManager
-Windows Application of Contact Manager
+A windows desktop application that performs the basic function of a contact manager. 
