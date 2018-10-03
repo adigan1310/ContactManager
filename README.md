@@ -1,2 +1,2 @@
 # ContactManager
-A windows desktop application that performs the basic function of a contact manager. 
+A windows desktop application that mimics the functionality of Contact Manager that stores its database in SQL Server and performs CRUD operations.
